@@ -3,7 +3,7 @@
 ###
 <p align="left">-Full Stack Developer<br>-Working at @teledatabrasil</p>
 <p>✨ Creating bugs in C# and Java since 2021.</p>
-<p>📚 I'm currently learning front end libs em Frameworks like React.</p>
+<p>📚 I'm currently learning front-end libraries and frameworks like React.</p>
 <p>🎯 Goals: Continuously improving my full stack development skills, with a focus on building dynamic and interactive user interfaces, while enhancing my expertise in front-end frameworks and back-end integration.
 </p>
 
