@@ -1,7 +1,7 @@
 <h1 align="left">About Me</h1>
 
 ###
-<p align="left">-Full Stack Developer<br>-Working at <a class="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/teledatabrasil/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/teledatabrasil">@teledatabrasil</a></p>
+<p align="left">-Full Stack Developer<br>-Working at <a class="user-mention notranslate" data-hovercard-type="organization" data-hovercard-url="/orgs/teledatabrasil/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://www.teledatabrasil.com.br/">Teledata</a></p>
 <p>✨ Creating bugs in C# and Java since 2021.</p>
 <p>📚 I'm currently learning front-end libraries and frameworks like React.</p>
 <p>🎯 Goals: Continuously improving my full stack development skills, with a focus on building dynamic and interactive user interfaces, while enhancing my expertise in front-end frameworks and back-end integration.
