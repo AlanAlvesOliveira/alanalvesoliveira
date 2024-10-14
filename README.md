@@ -1,6 +1,7 @@
 <h1 align="left">About Me</h1>
 
 ###
+<div class="styles__Wrapper-sc-2e7rvp-1 hyDomu"><button aria-label="Use template" class="styles__Button-sc-2e7rvp-2 itsayP"><svg viewBox="0 0 24 24" height="16" width="16" aria-hidden="true" focusable="false" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="StyledIconBase-ea9ulj-0 fHrGFt"><polyline points="20 6 9 17 4 12"></polyline></svg></button><button aria-label="Leave preview" class="styles__Button-sc-2e7rvp-2 hglnO"><svg viewBox="0 0 24 24" height="16" width="16" aria-hidden="true" focusable="false" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" class="StyledIconBase-ea9ulj-0 fHrGFt"><line x1="18" x2="6" y1="6" y2="18"></line><line x1="6" x2="18" y1="6" y2="18"></line></svg></button></div>
 
 <p align="left">-Full Stack Developer<br>-Working at @teledatabrasil</p>
 
